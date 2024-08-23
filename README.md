@@ -1,6 +1,6 @@
 # Description
 
-HTML practice project. Website will consist of a main page linking to a few recipes.
+HTML practice project. Website will consist of a main page linking to a few recipes. Recipes are parody and NOT fit for consumption.
 
 ### Goal
 
